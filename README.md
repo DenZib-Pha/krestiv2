@@ -7,6 +7,7 @@
 
 https://github.com/DenZib-Pha/krestiv2/blob/main/image.png
 https://github.com/DenZib-Pha/krestiv2/blob/main/oform.jpg
+https://github.com/DenZib-Pha/krestiv2/blob/main/protivV.jpg
 
 
 ## Технологии и особенности
